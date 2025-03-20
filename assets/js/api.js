@@ -5,3 +5,6 @@ async function fetchProfileData() {
     const profileData = await response.json()
     return profileData
 }
+
+
+'https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/profile.json'
