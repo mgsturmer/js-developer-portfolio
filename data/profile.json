@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "Javascript",
-        "logo": "https://github.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/js.svg"
+        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/js.svg"
       },
       {
         "name": "Nodejs",
-        "logo": "https://github.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/nodejs.svg"
       },
       {
         "name": "Java",
-        "logo": "https://github.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/java.svg"
+        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/java.svg"
       },
       {
         "name": "React",
-        "logo": "https://github.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/react.svg"
+        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/react.svg"
       }
     ],
     "softSkills": [
@@ -29,11 +29,12 @@
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Criatividade"
+      "Criatividade",
+      "Resolução de conflitos"
     ]
   },
   "languages": [
-    "Português BR",
+    "Português BR (Nativo)",
     "Inglês (Avançado)",
     "Espanhol (intermediário)"
   ],
@@ -53,12 +54,12 @@
   "professionalExperience": [
     {
       "name": "LACOG - Latin American Cooperative Oncology Group",
-      "period": "2022 - até o momento",
+      "period": "2015 - 2024",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
       "name": "STR Supermercados",
-      "period": "2021 - 2022",
+      "period": "2008 - 2009",
       "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
     }
   ]
