@@ -13,7 +13,7 @@
       },
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/blob/d034bfa70420d91250fd9c5622efe0a2743f4fd6/assets/img/icons/tools/css3.png"
       },
       {
         "name": "React",
@@ -25,7 +25,7 @@
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/mgsturmer/js-developer-portfolio/blob/d034bfa70420d91250fd9c5622efe0a2743f4fd6/data/imgs/css.png"
+        "logo": "https://github.com/mgsturmer/js-developer-portfolio/blob/d034bfa70420d91250fd9c5622efe0a2743f4fd6/assets/img/icons/tools/css3.png"
       }     
     ],
     "softSkills": [
