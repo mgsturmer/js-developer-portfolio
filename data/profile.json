@@ -21,11 +21,11 @@
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/html5.png"
+        "logo": "https://github.com/mgsturmer/js-developer-portfolio/blob/d034bfa70420d91250fd9c5622efe0a2743f4fd6/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/tree/main/assets/img/icons/tools/css3.png"
+        "logo": "https://github.com/mgsturmer/js-developer-portfolio/blob/d034bfa70420d91250fd9c5622efe0a2743f4fd6/data/imgs/css.png"
       }     
     ],
     "softSkills": [
