@@ -45,26 +45,26 @@
   "portfolio": [
     {
       "name": "Desafio de código DIO - criação de uma Pokedex",
-      "url": "",
+      "url": "https://github.com/mgsturmer/Full-Stack-em-React/tree/main/Full%20Stack%20em%20React/JavaScript/Modulo%202%20(JavaScript%20Web)",
       "github": true
     },
     {
       "name": "Este portfolio",
-      "url": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio",
+      "url": "https://github.com/mgsturmer/js-developer-portfolio",
       "github": true
     }
 
   ],
   "professionalExperience": [
     {
-      "name": "LACOG - Latin American Cooperative Oncology Group",
+      "name": "Clinical Informatics Assistant | LACOG",
       "period": "2015 - 2024",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Iniciei como bolsista e, após dois anos, tive a oportunidade de progredir para CLT, tornando-me referência no departamento de TI. Liderei uma equipe que variava entre 1 e 2 profissionais, coordenando a estratégia de coleta de dados para estudos clínicos em oncologia. Desenvolvi bancos de dados em uma plataforma específica com valor estatístico, capazes de responder aos objetivos da pesquisa, garantindo conformidade com GCP e LGPD. Desenvolvemos modelos e estruturas de coleta de dados com base em padrões internacionais, assim como conceitos e práticas de programação (reusabilidade, coesão, Keep it Simple), que melhoraram tanto o funcionamento interno no desenvolvimento dos projetos quanto a atuação de parceiros externos, majoritariamente da área da saúde. Atuei no monitoramento da coleta e qualidade dos dados, gerando scripts que asseguravam a integridade e relevância para a pesquisa. Tive também como atividade secundária a manutenção da segurança da informação, infraestrutura e suporte interno a outros colaboradores."
     },
     {
-      "name": "STR Supermercados",
+      "name": "Assistente de caixa - STR Supermercados",
       "period": "2008 - 2009",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "description": "Responsável pela organização dos produtos adquiridos e pelo fornecimento de todo tipo de assistência necessária. Essa experiência inicial na carreira me proporcionou principalmente desenvolvimento de soft skills, exigindo habilidades de comunicação ao interagir diariamente com dezenas de clientes, além de lidar com situações adversas de forma eficiente e profissional."
     }
   ]
 }
