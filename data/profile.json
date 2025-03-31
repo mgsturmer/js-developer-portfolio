@@ -5,6 +5,7 @@
   "location": "Porto Alegre - RS",
   "phone": "(51) 99754-2504)",
   "email": "mgsturmer@gmail.com",
+  "aboutme": "Olá, eu me chamo Matheus tenho 32 e fico feliz de ter você por aqui. Algumas trivialidades: Sou ciclista, jogo xadrez, pratico musculação, amo acampar e também gosto muito de música eletrônica. As vezes me aventuro como support no DOTA 2. Após muitos anos trabalhando com Informática especificamente para pesquisa clinica, decidi virar a chave e realizar uma migração de carreira para me tornar desenvolvedor Full Stack. Aprendi a programar a muitos anos atrás quando entrei em engenharia de computação na UFRGS mas infelizmente não consegui terminar o curso.",
   "skills": {
     "hardSkills": [
       {
@@ -49,7 +50,7 @@
       "github": true
     },
     {
-      "name": "Este portfolio",
+      "name": "Este portfolio (código fonte)",
       "url": "https://github.com/mgsturmer/js-developer-portfolio",
       "github": true
     }
