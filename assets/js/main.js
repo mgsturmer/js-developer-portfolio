@@ -23,7 +23,7 @@ function updateProfileInfo(profileData) {
 }
 
 
-function updateSoftSkills(profileData) {
+function updateAboutMe(profileData) {
     const aboutMe = document.getElementById('profile.aboutme')
     aboutMe.innerText = profileData.aboutme
 }

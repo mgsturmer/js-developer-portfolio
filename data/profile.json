@@ -5,7 +5,7 @@
   "location": "Porto Alegre - RS",
   "phone": "(51) 99754-2504)",
   "email": "mgsturmer@gmail.com",
-  "aboutme": "Olá, eu me chamo Matheus tenho 32 anos e fico feliz de ter você por aqui. Algumas trivialidades: Sou ciclista, jogo xadrez, pratico musculação, amo acampar e também gosto muito de música eletrônica. As vezes me aventuro como support no DOTA 2. Após muitos anos trabalhando com Informática especificamente para pesquisa clinica, decidi virar a chave e realizar uma migração de carreira para me tornar desenvolvedor Full Stack. Aprendi a programar a muitos anos atrás quando entrei em engenharia de computação na UFRGS mas infelizmente não consegui terminar o curso.",
+  "aboutme": "Oi, fico feliz de você ter você por aqui. Como dito acima, eu sou o Matheus, Matt ou Matsi para os íntimos. Sou ciclista, jogo xadrez, pratico musculação, amo acampar e também gosto muito de música eletrônica. As vezes me aventuro como support no DOTA 2. Durante muitos anos trabalhei com Informática especificamente para pesquisa clinica. No final de 2024 me desliguei do grupo e decidi virar a chave e realizar uma migração de carreira para me tornar desenvolvedor Full Stack. Aprendi a programar a muitos anos atrás quando entrei em engenharia de computação na UFRGS mas infelizmente não consegui terminar o curso.",
   "skills": {
     "hardSkills": [
       {
@@ -27,6 +27,10 @@
       {
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       }     
     ],
     "softSkills": [
