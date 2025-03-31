@@ -22,6 +22,12 @@ function updateProfileInfo(profileData) {
     email.href = `mailto:${profileData.email}`
 }
 
+
+function updateSoftSkills(profileData) {
+    const aboutMe = document.getElementById('profile.aboutme')
+    aboutMe.innerText = profileData.aboutme
+}
+
 function updateSoftSkills(profileData) {
     const softSkills = document.getElementById('profile.skills.softSkills')
     softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
@@ -65,6 +71,7 @@ function updateProfessionalExperience(profileData) {
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
+    updateAboutMe(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
