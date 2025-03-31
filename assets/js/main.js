@@ -25,7 +25,7 @@ function updateProfileInfo(profileData) {
 
 function updateSoftSkills(profileData) {
     const aboutMe = document.getElementById('profile.aboutme')
-    return `<p>${aboutMe}</p>`
+    aboutMe.innerText = profileData.aboutme
 }
 
 function updateSoftSkills(profileData) {
