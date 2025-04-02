@@ -1,11 +1,11 @@
 {
   "name": "Matheus G. Sturmer",
   "photo": "https://avatars.githubusercontent.com/mgsturmer",
-  "job": "Full Stack Developer em React JS",
+  "job": "Full Stack Developer",
   "location": "Porto Alegre - RS",
   "phone": "(51) 99754-2504)",
   "email": "mgsturmer@gmail.com",
-  "aboutme": "Oi, fico feliz de você ter você por aqui. Como dito acima, eu sou o Matheus, Matt ou Matsi para os íntimos. Sou ciclista, jogo xadrez, pratico musculação, amo acampar e também gosto muito de música eletrônica. As vezes me aventuro como support no DOTA 2. Durante muitos anos trabalhei com Informática especificamente para pesquisa clinica. No final de 2024 me desliguei do grupo e decidi virar a chave e realizar uma migração de carreira para me tornar desenvolvedor Full Stack. Aprendi a programar a muitos anos atrás quando entrei em engenharia de computação na UFRGS mas infelizmente não consegui terminar o curso.",
+  "objectives": "Busco uma oportunidade como desenvolvedor Full Stack onde possa consolidar minha transição de carreira, aplicando e aprimorando minhas habilidades como desenvolvedor e também interpessoais enquanto contribuo ativamente para a equipe. Além de evoluir tecnicamente, quero entender melhor os desafios do negócio, propor soluções que realmente façam a diferença e crescer junto com a empresa. Valorizo ambientes onde a troca de conhecimento é constante e onde meu background prévio em tecnologia pode agregar novas perspectivas. Valorizo a importância de construir algo a longo prazo e de estar em um time onde faça sentido crescer profissionalmente.",
   "skills": {
     "hardSkills": [
       {
@@ -56,6 +56,11 @@
     {
       "name": "Este portfolio (código fonte)",
       "url": "https://github.com/mgsturmer/js-developer-portfolio",
+      "github": true
+    }
+    {
+      "name": "Desafio de código DIO - Calculadora em React",
+      "url": "https://github.com/mgsturmer/Desafio-01-React---Calculadora",
       "github": true
     }
 
