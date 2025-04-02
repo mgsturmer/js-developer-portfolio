@@ -23,9 +23,9 @@ function updateProfileInfo(profileData) {
 }
 
 
-function updateAboutMe(profileData) {
-    const aboutMe = document.getElementById('profile.aboutme')
-    aboutMe.innerText = profileData.aboutme
+function updateObjectives(profileData) {
+    const objectives = document.getElementById('profile.objectives')
+    objectives.innerText = profileData.objectives
 }
 
 function updateSoftSkills(profileData) {
@@ -71,7 +71,7 @@ function updateProfessionalExperience(profileData) {
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
-    updateAboutMe(profileData)
+    updateObjectives(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
