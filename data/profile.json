@@ -62,6 +62,11 @@
       "name": "Desafio de código DIO - Calculadora em React",
       "url": "https://github.com/mgsturmer/Desafio-01-React---Calculadora",
       "github": true
+    },
+    {
+      "name": "Desafio de código DIO - Corridas Mario Kart no Terminal em Node.js",
+      "url": "https://github.com/mgsturmer/formacao-nodejs/tree/main/03-projeto-mario-kart",
+      "github": true
     }
   ],
   "professionalExperience": [
