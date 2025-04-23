@@ -17,7 +17,7 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "React",
+        "name": "React.js and React Native",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "name": "Scrum",
-        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/main/data/imgs/scrum.png"
+        "logo": "https://raw.githubusercontent.com/mgsturmer/js-developer-portfolio/refs/heads/main/data/imgs/scrum.png"
       }          
     ],
     "softSkills": [
@@ -53,7 +53,7 @@
   ],
   "portfolio": [
     {
-      "name": "GitHub",
+      "name": "GitHub Geral",
       "url": "https://github.com/mgsturmer",
       "github": true
     },
